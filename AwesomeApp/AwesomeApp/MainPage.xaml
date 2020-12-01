@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AwesomeApp.MainPage"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             Title="Scan for BLE devices"
+             Visual="Material"
+             mc:Ignorable="d" >
+    <!--<ContentPage.Content>
+        <StackLayout>
+            <Label Text="Welcome to Xamarin.Forms!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+        </StackLayout>
+    </ContentPage.Content>-->
+
+    <Grid>
+        <StackLayout Orientation="Vertical">
+            <Button x:Name="ScanButton"
+                    Margin="10"
+                    Clicked="ScanButton_Clicked"
+                    Text="Scan" />
+            <ListView x:Name="foundBleDevicesListView" Footer="" ItemTapped="FoundBluetoothDevicesListView_ItemTapped"/>
+        </StackLayout>
+        <ActivityIndicator x:Name="IsBusyIndicator" Scale="0.3" />
+    </Grid>
+</ContentPage>
