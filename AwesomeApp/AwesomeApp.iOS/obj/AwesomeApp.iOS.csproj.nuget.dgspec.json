@@ -1,39 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TENZR - Kassymkhan\\Documents\\xamarin\\AwesomeApp\\AwesomeApp\\AwesomeApp.iOS\\AwesomeApp.iOS.csproj": {}
+    "/Users/dev/Documents/Xamarin/ble-ios-connect/AwesomeApp/AwesomeApp.iOS/AwesomeApp.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TENZR - Kassymkhan\\Documents\\xamarin\\AwesomeApp\\AwesomeApp\\AwesomeApp.iOS\\AwesomeApp.iOS.csproj": {
+    "/Users/dev/Documents/Xamarin/ble-ios-connect/AwesomeApp/AwesomeApp.iOS/AwesomeApp.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TENZR - Kassymkhan\\Documents\\xamarin\\AwesomeApp\\AwesomeApp\\AwesomeApp.iOS\\AwesomeApp.iOS.csproj",
+        "projectUniqueName": "/Users/dev/Documents/Xamarin/ble-ios-connect/AwesomeApp/AwesomeApp.iOS/AwesomeApp.iOS.csproj",
         "projectName": "AwesomeApp.iOS",
-        "projectPath": "C:\\Users\\TENZR - Kassymkhan\\Documents\\xamarin\\AwesomeApp\\AwesomeApp\\AwesomeApp.iOS\\AwesomeApp.iOS.csproj",
-        "packagesPath": "C:\\Users\\TENZR - Kassymkhan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TENZR - Kassymkhan\\Documents\\xamarin\\AwesomeApp\\AwesomeApp\\AwesomeApp.iOS\\obj\\",
+        "projectPath": "/Users/dev/Documents/Xamarin/ble-ios-connect/AwesomeApp/AwesomeApp.iOS/AwesomeApp.iOS.csproj",
+        "packagesPath": "/Users/dev/.nuget/packages/",
+        "outputPath": "/Users/dev/Documents/Xamarin/ble-ios-connect/AwesomeApp/AwesomeApp.iOS/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\TENZR - Kassymkhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/dev/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "xamarinios10"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\TENZR - Kassymkhan\\Documents\\xamarin\\AwesomeApp\\AwesomeApp\\AwesomeApp\\AwesomeApp.csproj": {
-                "projectPath": "C:\\Users\\TENZR - Kassymkhan\\Documents\\xamarin\\AwesomeApp\\AwesomeApp\\AwesomeApp\\AwesomeApp.csproj"
+              "/Users/dev/Documents/Xamarin/ble-ios-connect/AwesomeApp/AwesomeApp/AwesomeApp.csproj": {
+                "projectPath": "/Users/dev/Documents/Xamarin/ble-ios-connect/AwesomeApp/AwesomeApp/AwesomeApp.csproj"
               }
             }
           }
@@ -69,29 +63,25 @@
         }
       }
     },
-    "C:\\Users\\TENZR - Kassymkhan\\Documents\\xamarin\\AwesomeApp\\AwesomeApp\\AwesomeApp\\AwesomeApp.csproj": {
+    "/Users/dev/Documents/Xamarin/ble-ios-connect/AwesomeApp/AwesomeApp/AwesomeApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TENZR - Kassymkhan\\Documents\\xamarin\\AwesomeApp\\AwesomeApp\\AwesomeApp\\AwesomeApp.csproj",
+        "projectUniqueName": "/Users/dev/Documents/Xamarin/ble-ios-connect/AwesomeApp/AwesomeApp/AwesomeApp.csproj",
         "projectName": "AwesomeApp",
-        "projectPath": "C:\\Users\\TENZR - Kassymkhan\\Documents\\xamarin\\AwesomeApp\\AwesomeApp\\AwesomeApp\\AwesomeApp.csproj",
-        "packagesPath": "C:\\Users\\TENZR - Kassymkhan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TENZR - Kassymkhan\\Documents\\xamarin\\AwesomeApp\\AwesomeApp\\AwesomeApp\\obj\\",
+        "projectPath": "/Users/dev/Documents/Xamarin/ble-ios-connect/AwesomeApp/AwesomeApp/AwesomeApp.csproj",
+        "packagesPath": "/Users/dev/.nuget/packages/",
+        "outputPath": "/Users/dev/Documents/Xamarin/ble-ios-connect/AwesomeApp/AwesomeApp/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\TENZR - Kassymkhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/dev/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -139,7 +129,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1980,39 +1980,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\TENZR - Kassymkhan\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/dev/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TENZR - Kassymkhan\\Documents\\xamarin\\AwesomeApp\\AwesomeApp\\AwesomeApp.Android\\AwesomeApp.Android.csproj",
+      "projectUniqueName": "/Users/dev/Documents/Xamarin/ble-ios-connect/AwesomeApp/AwesomeApp.Android/AwesomeApp.Android.csproj",
       "projectName": "AwesomeApp.Android",
-      "projectPath": "C:\\Users\\TENZR - Kassymkhan\\Documents\\xamarin\\AwesomeApp\\AwesomeApp\\AwesomeApp.Android\\AwesomeApp.Android.csproj",
-      "packagesPath": "C:\\Users\\TENZR - Kassymkhan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TENZR - Kassymkhan\\Documents\\xamarin\\AwesomeApp\\AwesomeApp\\AwesomeApp.Android\\obj\\",
+      "projectPath": "/Users/dev/Documents/Xamarin/ble-ios-connect/AwesomeApp/AwesomeApp.Android/AwesomeApp.Android.csproj",
+      "packagesPath": "/Users/dev/.nuget/packages/",
+      "outputPath": "/Users/dev/Documents/Xamarin/ble-ios-connect/AwesomeApp/AwesomeApp.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\TENZR - Kassymkhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/dev/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid90"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\TENZR - Kassymkhan\\Documents\\xamarin\\AwesomeApp\\AwesomeApp\\AwesomeApp\\AwesomeApp.csproj": {
-              "projectPath": "C:\\Users\\TENZR - Kassymkhan\\Documents\\xamarin\\AwesomeApp\\AwesomeApp\\AwesomeApp\\AwesomeApp.csproj"
+            "/Users/dev/Documents/Xamarin/ble-ios-connect/AwesomeApp/AwesomeApp/AwesomeApp.csproj": {
+              "projectPath": "/Users/dev/Documents/Xamarin/ble-ios-connect/AwesomeApp/AwesomeApp/AwesomeApp.csproj"
             }
           }
         }

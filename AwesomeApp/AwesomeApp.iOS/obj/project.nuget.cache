@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "UMDItO+2JAPXyb0BuU3Gl7XXNwMfZ1VJAhAqoKa13ARwMSIQarRpZ8DRo8jju/f22wyTWVZrRxBzKfcjCTvnAw==",
+  "dgSpecHash": "kHepznBVMgODvFJFnG6ql4mMQ1HT7+c3a50XtV5m0V0FMVh+piVDtFLBTw7TLAJ3pNxeB4e8q+MgGVNtCtgirw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\TENZR - Kassymkhan\\Documents\\xamarin\\AwesomeApp\\AwesomeApp\\AwesomeApp.iOS\\AwesomeApp.iOS.csproj",
+  "projectFilePath": "/Users/dev/Documents/Xamarin/ble-ios-connect/AwesomeApp/AwesomeApp.iOS/AwesomeApp.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\TENZR - Kassymkhan\\.nuget\\packages\\plugin.ble\\2.1.1\\plugin.ble.2.1.1.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Users\\TENZR - Kassymkhan\\.nuget\\packages\\xamarin.forms\\4.8.0.1687\\xamarin.forms.4.8.0.1687.nupkg.sha512"
+    "/Users/dev/.nuget/packages/plugin.ble/2.1.1/plugin.ble.2.1.1.nupkg.sha512",
+    "/Users/dev/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/dev/.nuget/packages/xamarin.forms/4.8.0.1687/xamarin.forms.4.8.0.1687.nupkg.sha512"
   ],
   "logs": []
 }

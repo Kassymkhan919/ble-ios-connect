@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{B38CF9E4-384C-4FAF-9668-FCFC1040AAB6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AwesomeApp/AwesomeApp/BluetoothDataPage.xaml.cs">
+    <Files>
+      <File FileName="AwesomeApp/AwesomeApp/BluetoothDataPage.xaml.cs" Line="9" Column="26" />
+      <File FileName="AwesomeApp/AwesomeApp/GattIdentifiers.cs" Line="14" Column="9" />
+      <File FileName="AwesomeApp/AwesomeApp.iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AwesomeApp" expanded="True">
+            <Node name="AwesomeApp" expanded="True">
+              <Node name="BluetoothDataPage.xaml" expanded="True">
+                <Node name="BluetoothDataPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="AwesomeApp.iOS" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AwesomeApp.Android TriggeredFromHotReload="False" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AwesomeApp.iOS automaticSigning="False" TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5648B953-F7E4-41EC-8089-9FC23C82FD3E" />
+</Properties>
