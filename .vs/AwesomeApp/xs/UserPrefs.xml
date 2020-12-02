@@ -1,22 +1,27 @@
-﻿<Properties StartupConfiguration="{B38CF9E4-384C-4FAF-9668-FCFC1040AAB6}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="AwesomeApp/AwesomeApp/BluetoothDataPage.xaml.cs">
+﻿<Properties StartupConfiguration="{F8B659EF-882F-4CFF-8616-E90DD4F75FFF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AwesomeApp/AwesomeApp.iOS/Properties/AssemblyInfo.cs">
     <Files>
-      <File FileName="AwesomeApp/AwesomeApp/BluetoothDataPage.xaml.cs" Line="9" Column="26" />
+      <File FileName="AwesomeApp/AwesomeApp/BluetoothDataPage.xaml.cs" Line="83" Column="1" />
       <File FileName="AwesomeApp/AwesomeApp/GattIdentifiers.cs" Line="14" Column="9" />
       <File FileName="AwesomeApp/AwesomeApp.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="AwesomeApp/AwesomeApp/BluetoothDataPage.xaml" Line="22" Column="27" />
+      <File FileName="AwesomeApp/AwesomeApp/App.xaml" Line="1" Column="1" />
+      <File FileName="AwesomeApp/AwesomeApp/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="AwesomeApp/AwesomeApp/MainPage.xaml.cs" Line="62" Column="34" />
+      <File FileName="AwesomeApp/AwesomeApp.iOS/Properties/AssemblyInfo.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="AwesomeApp" expanded="True">
             <Node name="AwesomeApp" expanded="True">
-              <Node name="BluetoothDataPage.xaml" expanded="True">
-                <Node name="BluetoothDataPage.xaml.cs" selected="True" />
-              </Node>
+              <Node name="BluetoothDataPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
             </Node>
             <Node name="AwesomeApp.iOS" expanded="True">
-              <Node name="Properties" expanded="True" />
-              <Node name="Resources" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="AssemblyInfo.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
